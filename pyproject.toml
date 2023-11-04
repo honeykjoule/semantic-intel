@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "semantic-intel"
+version = "0.0.1"
+description = "what did he mean by that"
+authors = ["honeykjoule <honeykjoule@proton.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
