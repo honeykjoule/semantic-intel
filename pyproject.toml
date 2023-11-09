@@ -6,9 +6,11 @@ authors = ["honeykjoule <honeykjoule@proton.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.12,<3.13"
+python = ">=3.9,<=3.10"
 requests = "^2.31.0"
 pandas = "^2.1.2"
+jupyterlab = "^4.0.8"
+cohere = "^4.33"
 
 
 [build-system]
