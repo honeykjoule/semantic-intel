@@ -12,6 +12,8 @@ pandas = "^2.1.2"
 jupyterlab = "^4.0.8"
 cohere = "^4.33"
 python-dotenv = "^1.0.0"
+nomic = "^2.0.14"
+tdqm = "^0.0.1"
 
 
 [build-system]
